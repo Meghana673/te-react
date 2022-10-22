@@ -1,0 +1,124 @@
+.phead{
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Archivo Narrow', sans-serif;
+    color: #404b52;
+    font-size: 25px;
+    line-height: 0.9;
+    letter-spacing: 0px;
+}
+.head{
+    font-weight: 700;
+    padding-top: 22px;
+
+}
+.desc{
+    font-weight: 540;
+    font-style: normal;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #949494;
+    font-size: 11px;
+    line-height: 1.7;
+    letter-spacing: 0px;
+    text-align: center;
+    
+
+}
+.cbtn{
+    background-color: white;
+    font-family: sans-serif;
+    color: black;
+    padding: 6px;
+  
+    font-weight: 500;
+}
+.cbtn:hover{
+    background-color: white;
+   color: orangered;
+
+}
+.container{
+    padding: 30px;
+}
+.cont{
+    background-color: #edecec;
+    padding: 50px;
+}
+.pdesc1{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Archivo Narrow', sans-serif;
+    color: #404b52;
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+   
+ 
+}
+.cimg{
+    padding: 8px;
+}
+.card-title{
+    color: orangered;
+    font-size: 28px;
+}
+
+.fa-circle-arrow-right{
+    font-size: 20px;
+    color: black;
+}
+.card-text{
+    font-weight: 400;
+    font-style: normal;
+    font-family: serif;
+    color: #949494;
+    font-size: 16px;
+    line-height: 1.7;
+    letter-spacing: 0px;
+}
+.carousel-caption{
+    background-color: #dc6226;
+    bottom: 0;
+    width: 695px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+    padding-right: 110px;
+    padding-left: 110px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.footer{
+    background:#434f53;
+    padding:50px;
+}
+.fohead{
+    display:inline-block;
+    color: white;
+    padding-right:180px;
+}
+.ficon{
+    color: rgb(235, 108, 62);
+    font-size: 26px;
+    position: relative;
+    right:130px;
+
+}
+.contact{
+    background-color: #5e696d;
+    padding: 60px;
+    padding-left: 100px;
+    
+}
+.p{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 55px;
+    margin-top: -70px;
+    color: white;
+    font-weight: bold;
+    font-family: serif;
+}

@@ -1,0 +1,26 @@
+/* .navbar{
+    background-color: gray;
+}
+.navbar-dark{
+    background-color: grey;
+} */
+nav{
+    background:#434f53;
+    text-align: center;
+}
+.nav-link{
+    color:white;
+    font-weight: bold;
+}
+.active{
+    color:orangered;
+}
+.nimg{
+    height: 70;
+    width: 250;
+    position:relative;
+    margin-top:-1px;
+    margin-bottom: -9px;
+    left:50px;
+    margin-right: 140px;
+}

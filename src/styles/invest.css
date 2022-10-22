@@ -1,0 +1,79 @@
+.inv {
+    background-color: rgb(243, 103, 52);
+    
+    
+    }
+    .moto{
+        position: relative;
+        padding-left: 250px;
+        margin: 0 0 15px;
+        line-height: 24px;
+        color: white;
+        text-align: left;
+        transition: all .3s ease;
+    }
+    li{
+      list-style: none;
+    }
+    .fresh{
+        color:white;
+        text-align: left;
+        padding-top: 50px;
+        padding-bottom: 20px;
+        padding-left: 280px;
+        font-weight: 700;
+       
+    }
+    .c{
+        background-color: #434f53;
+        position: relative;
+     
+    }
+    .inbtn{
+        background-color:rgb(243, 103, 52) ;
+        border: 2px solid white;
+        padding:5px;
+        color: white;
+    }
+    .inbtn:hover{
+        background-color:rgb(243, 103, 52) ;
+        border: 2px solid white;
+        color: rgb(118, 111, 111);
+    }
+    .btn-primary{
+        background-color:#434f53;
+        border: 2px solid white;
+        color: white;
+    }
+    .btn-primary:hover{
+        background-color:#434f53 ;
+        border: 2px solid white;
+        color: rgb(118, 111, 111);
+    }
+    .lbtn{
+        padding-bottom: 30px;
+        padding-left: 65px;
+    }
+    .rbtn{
+        padding-bottom: 30px;
+        padding-right: 420px;
+    }
+    .mh{
+        color:white;
+        text-align: left;
+        position: relative;
+        padding-top: 50px;
+        right: 240px;
+        float: left;
+        font-weight: 700;
+    
+    }
+    .moto-right{
+        position: relative;
+        padding-right: 200px;
+        margin: 0 0 15px;
+        line-height: 24px;
+        color: white;
+        text-align: left;
+        transition: all .3s ease;
+    }
